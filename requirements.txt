@@ -1,0 +1,17 @@
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+tweepy
+instagram-scraper
+trending
+fashion-trends-api
